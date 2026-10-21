@@ -1,0 +1,10 @@
+{
+  "guid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+  "name": "Watchlist Tracker",
+  "overview": "Track watched episodes and manage a personal watchlist.",
+  "description": "Automatically tracks watched episodes from playback events and provides a searchable web UI.",
+  "owner": "WatchlistTracker",
+  "category": "General",
+  "targetAbi": "10.9.0.0",
+  "versions": [{ "version": "1.0.0.0", "changelog": "Initial release", "targetAbi": "10.9.0.0", "sourceUrl": "https://example.invalid/watchlist-tracker" }]
+}

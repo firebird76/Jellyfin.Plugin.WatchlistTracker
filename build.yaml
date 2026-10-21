@@ -1,0 +1,8 @@
+name: Watchlist Tracker
+version: 1.0.0.0
+framework: net8.0
+project: Jellyfin.Plugin.WatchlistTracker.csproj
+configuration: Release
+artifacts:
+  - Jellyfin.Plugin.WatchlistTracker.dll
+  - meta.json
